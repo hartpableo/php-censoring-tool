@@ -33,6 +33,6 @@ class Censor
 
   private function censorString($string) {
     $censoredString = str_repeat('*', strlen($string));
-    return "<strong class=\"censored-text\" data-notice=\"You must be at least a basic plan subscriber to display links and emails in your job posts.\">{$censoredString}</strong>";
+    return "<strong class=\"censored-text\" data-notice=\"You must be a subscriber to see this info.\">{$censoredString}</strong>";
   }
 }
