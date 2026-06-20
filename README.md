@@ -7,7 +7,7 @@ A lightweight, flexible PHP library to censor email addresses and hyperlinks in 
 - **Email Censoring**: Matches and obscures standard email addresses.
 - **Link Censoring**: Identifies HTML anchor tags (`<a>...</a>`) and obscures either the anchor text or the full tag.
 - **Flexible Masking**: Decoupled design allows you to define custom replacement formats (e.g., HTML, markdown, custom text like `[REDACTED]`, or simple asterisks).
-- **Zero Production Dependencies**: Light codebase that runs out-of-the-box on PHP 7.4 or newer.
+- **Zero Production Dependencies**: Light codebase that runs out-of-the-box on PHP 8.0 or newer.
 
 ---
 
