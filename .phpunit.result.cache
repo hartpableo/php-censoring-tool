@@ -1,1 +1,0 @@
-{"version":2,"defects":[],"times":{"HartPableo\\PhpCensoringTool\\Tests\\CensorTest::testItCensorsEmailsWithDefaultHtmlFormatter":0.005,"HartPableo\\PhpCensoringTool\\Tests\\CensorTest::testItCensorsLinksWithDefaultHtmlFormatter":0,"HartPableo\\PhpCensoringTool\\Tests\\CensorTest::testItCensorsWithCustomFormatter":0}}
