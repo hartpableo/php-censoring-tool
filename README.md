@@ -2,9 +2,6 @@
 
 A lightweight, flexible PHP library to censor email addresses and hyperlinks in block text. Ideal for cleaning user-generated content, masking database outputs, or protecting private information before displaying it publicly.
 
-[![Tests Status](https://github.com/hartpableo/php-censoring-tool/actions/workflows/tests.yml/badge.svg)](https://github.com/hartpableo/php-censoring-tool/actions)
-[![License](https://img.shields.io/github/license/hartpableo/php-censoring-tool)](LICENSE)
-
 ## Features
 
 - **Email Censoring**: Matches and obscures standard email addresses.
